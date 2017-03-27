@@ -1,0 +1,11 @@
+Entry	Gene names	Gene names  (ordered locus )	Protein names	Organism	Gene names  (primary )
+Q14524	SCN5A		Sodium channel protein type 5 subunit alpha (HH1) (Sodium channel protein cardiac muscle subunit alpha) (Sodium channel protein type V subunit alpha) (Voltage-gated sodium channel subunit alpha Nav1.5)	Homo sapiens (Human)	SCN5A
+P00533	EGFR ERBB ERBB1 HER1		Epidermal growth factor receptor (EC 2.7.10.1) (Proto-oncogene c-ErbB-1) (Receptor tyrosine-protein kinase erbB-1)	Homo sapiens (Human)	EGFR
+P35520	CBS		Cystathionine beta-synthase (EC 4.2.1.22) (Beta-thionase) (Serine sulfhydrase)	Homo sapiens (Human)	CBS
+P49841	GSK3B		Glycogen synthase kinase-3 beta (GSK-3 beta) (EC 2.7.11.26) (Serine/threonine-protein kinase GSK3B) (EC 2.7.11.1)	Homo sapiens (Human)	GSK3B
+P31749	AKT1 PKB RAC		RAC-alpha serine/threonine-protein kinase (EC 2.7.11.1) (Protein kinase B) (PKB) (Protein kinase B alpha) (PKB alpha) (Proto-oncogene c-Akt) (RAC-PK-alpha)	Homo sapiens (Human)	AKT1
+P31327	CPS1		Carbamoyl-phosphate synthase [ammonia], mitochondrial (EC 6.3.4.16) (Carbamoyl-phosphate synthetase I) (CPSase I)	Homo sapiens (Human)	CPS1
+P02649	APOE		Apolipoprotein E (Apo-E)	Homo sapiens (Human)	APOE
+P04150	NR3C1 GRL		Glucocorticoid receptor (GR) (Nuclear receptor subfamily 3 group C member 1)	Homo sapiens (Human)	NR3C1
+Q03135	CAV1 CAV		Caveolin-1	Homo sapiens (Human)	CAV1
+P03372	ESR1 ESR NR3A1		Estrogen receptor (ER) (ER-alpha) (Estradiol receptor) (Nuclear receptor subfamily 3 group A member 1)	Homo sapiens (Human)	ESR1
