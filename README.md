@@ -8,34 +8,34 @@ Munich March 29th and 30th, 2017. The course is an introduction for
 novices to the Unix Shell, Python and git.
 
 ## 2 Schedule
-
+n
 ### 2.0 Check installation while people are arriving
 
 ### 2.1 Welcome and introduction [9:00 - 9:30]
 
-- Introduction of the instructors and helpers
-- Name tags
-- Introduction of the participants
-- Ice breaker - Sort people by the following values:
+- [ ] Introduction of the instructors and helpers
+- [ ] Name tags
+- [ ] Introduction of the participants
+- [ ] Ice breaker - Sort people by the following values:
     - In which year of your PhD are you?
     - How strong are the computational requirement in your PhD
     - Considerung the course topic - how strong do you feel about knowing this already?
     - Group by research field
-- [Code of Conduct](https://software-carpentry.org/conduct.html) => Be excellent to each other!
-- Photos    
-- Breaks
-- Material of the course
+- [ ] [Code of Conduct](https://software-carpentry.org/conduct.html) => Be excellent to each other!
+- [ ] Photos    
+- [ ] Breaks
+- [ ] Material of the course
   - https://github.com/konrad/2017-03-29-Software_Carpentry_Munich_Teaching_Material
   - https://swcarpentry.github.io/git-novice/
-- The etherpad
+- [ ] The etherpad
     - [http://pad.software-carpentry.org/2017-03-29-munich](http://pad.software-carpentry.org/2017-03-29-munich)
     - Short URL: [http://bit.ly/2orL52i](http://bit.ly/2orL52i)
     - Exercise - add your name to the list of participants
-- Motivation
+- [ ] Motivation
     - Access to (bioinformatical) tools that only have CLI
     - Automation
     - Reproducibility / Transparency
-- Who has still issue with installation?
+- [ ] Who has still issue with installation?
 
 ### 2.2 Unix Shell (Konrad) [9:30 - 12:00]
 
