@@ -16,13 +16,12 @@ novices to the Unix Shell, Python and git.
 - Introduction of the instructors and helpers
 - Name tags
 - Introduction of the participants
-
 - Ice breaker - Sort people by the following values:
     - In which year of your PhD are you?
     - How strong are the computational requirement in your PhD
     - Considerung the course topic - how strong do you feel about knowing this already?
     - Group by research field
-- [Code of Conduct](https://software-carpentry.org/conduct.html)
+- [Code of Conduct](https://software-carpentry.org/conduct.html) => Be excellent to each other!
 - Photos    
 - Breaks
 - Material of the course
