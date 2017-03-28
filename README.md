@@ -14,17 +14,18 @@ novices to the Unix Shell, Python and git.
 ### 2.1 Welcome and introduction [9:00 - 9:30]
 
 - Introduction of the instructors and helpers
+- Name tags
 - Introduction of the participants
-- Code of Conduct
-- Photos
+
 - Ice breaker - Sort people by the following values:
     - In which year of your PhD are you?
     - How strong are the computational requirement in your PhD
     - Considerung the course topic - how strong do you feel about knowing this already?
     - Group by research field
-- Name tags
+- [Code of Conduct](https://software-carpentry.org/conduct.html)
+- Photos    
 - Breaks
-- Material of the course
+- [Material of the course](https://github.com/swcarpentry-wuerzburg/2016-11-09-Software_carpentry_course_material_Wuerzburg)
 - The etherpad
     - [http://pad.software-carpentry.org/2017-03-29-munich](http://pad.software-carpentry.org/2017-03-29-munich)
     - Short URL: [http://bit.ly/2orL52i](http://bit.ly/2orL52i)
@@ -33,7 +34,7 @@ novices to the Unix Shell, Python and git.
     - Access to (bioinformatical) tools that only have CLI
     - Automation
     - Reproducibility / Transparency
-- Who has still issue with installation?    
+- Who has still issue with installation?
 
 ### 2.2 Unix Shell (Konrad) [9:30 - 12:00]
 
@@ -45,7 +46,7 @@ novices to the Unix Shell, Python and git.
 
 ### 2.3 Python [13:00 - 16:00]
 
-#### 2.3.0 Installation of Jupyter notebook
+#### 2.3.0 Check Jupyter notebook
 
 #### 2.3.1 Session 1 (Florian):
 
@@ -55,20 +56,13 @@ novices to the Unix Shell, Python and git.
 - Data structures: str, int, float, list, dict
 - File handling
 - New lines, tab etc., regular expression
-- `if` `else` startement
+- Conditionals `if` `else` startement
 - `for` loop
 
 #### 2.3.2 Session 2 (Konrad):
 
-- Function definition: reproducibility
-- Doc string, sensible names, arguments
-
-#### 2.3.3 Session 3 (Florian):
-
-- Importing module and module recommendations (important modules: sys,
-   math, pandas, numpy, scipy, matplotlib, openpyxl, requests,
-   biopython, collections, scikit-learn, )
-- Writing scripts
+- Function definition
+- Writing Python scripts
 
 ### 2.4 Git (Florian) [9:00 - 12:00]
 
