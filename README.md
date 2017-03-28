@@ -8,7 +8,7 @@ Munich March 29th and 30th, 2017. The course is an introduction for
 novices to the Unix Shell, Python and git.
 
 ## 2 Schedule
-n
+
 ### 2.0 Check installation while people are arriving
 
 ### 2.1 Welcome and introduction [9:00 - 9:30]
