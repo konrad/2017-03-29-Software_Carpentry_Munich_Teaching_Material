@@ -15,6 +15,6 @@
 - `tail` - shows the last lines (per default 10) lines of a text file
 - `cut` - returns column of a text file
 - `wc` - *w*ord *c*ount, counts number of characters, words, and lines of a text file
-- `sort` - sorts a test file
+- `sort` - sorts text
 - `uniq` - removes redundancies from sorted list of lines
 - `grep` - extracts line of a file that match a pattern
