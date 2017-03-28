@@ -1,11 +1,11 @@
-# Course Material for the Software Carpentry workshop Würzburg 2016-10-26/2016-10-27
+# Course Material for the Software Carpentry workshop Würzburg 2017-03-29/2016-10-30
 
 ## 1 About
 
 This is the course material for the [Software
 Carpentry](http://software-carpentry.org/) workshop taking place in
-Würzburg at October 26th and 27th, 2016. The course is an introduction
-for novices to the Unix Shell, Python and git.
+Munich March 29th and 30th, 2017. The course is an introduction for
+novices to the Unix Shell, Python and git.
 
 ## 2 Schedule
 
@@ -15,6 +15,7 @@ for novices to the Unix Shell, Python and git.
 
 - Introduction of the instructors and helpers
 - Introduction of the participants
+- Code of Conduct
 - Photos
 - Ice breaker - Sort people by the following values:
     - In which year of your PhD are you?
@@ -25,8 +26,8 @@ for novices to the Unix Shell, Python and git.
 - Breaks
 - Material of the course
 - The etherpad
-    - [http://pad.software-carpentry.org/p/2016-10-26-Wuerzburg](http://pad.software-carpentry.org/p/2016-10-26-Wuerzburg)
-    - Short URL: [http://bit.ly/2emNADR](http://bit.ly/2emNADR)
+    - [http://pad.software-carpentry.org/2017-03-29-munich](http://pad.software-carpentry.org/2017-03-29-munich)
+    - Short URL: [http://bit.ly/2orL52i](http://bit.ly/2orL52i)
     - Exercise - add your name to the list of participants
 - Motivation
     - Access to (bioinformatical) tools that only have CLI
@@ -69,7 +70,7 @@ for novices to the Unix Shell, Python and git.
    biopython, collections, scikit-learn, )
 - Writing scripts
 
-### 2.4 Git (Markus) [9:00 - 12:00]
+### 2.4 Git (Florian) [9:00 - 12:00]
 
 - Setup
 - Creating a Repository
@@ -104,6 +105,6 @@ reproducible research.
 
 ## 4 License
 
-This work by Malvika Sharan, Markus Ankenbrand, Konrad Förstner is
-licensed under a [Creative Commons Attribution 4.0 International
+This work by Konrad Förstner and Florian Thöle is licensed under a
+[Creative Commons Attribution 4.0 International
 License](https://creativecommons.org/licenses/by/4.0/).
