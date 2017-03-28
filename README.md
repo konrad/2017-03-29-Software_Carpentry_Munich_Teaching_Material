@@ -25,7 +25,9 @@ novices to the Unix Shell, Python and git.
 - [Code of Conduct](https://software-carpentry.org/conduct.html)
 - Photos    
 - Breaks
-- [Material of the course](https://github.com/swcarpentry-wuerzburg/2016-11-09-Software_carpentry_course_material_Wuerzburg)
+- Material of the course
+  - https://github.com/konrad/2017-03-29-Software_Carpentry_Munich_Teaching_Material
+  - https://swcarpentry.github.io/git-novice/
 - The etherpad
     - [http://pad.software-carpentry.org/2017-03-29-munich](http://pad.software-carpentry.org/2017-03-29-munich)
     - Short URL: [http://bit.ly/2orL52i](http://bit.ly/2orL52i)
