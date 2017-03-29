@@ -3,6 +3,7 @@ import matplotlib
 matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 
+plt.style.use('ggplot')
 gene_lengths = []
 for line in open(sys.argv[1]):
     if line.startswith("#"):
