@@ -712,7 +712,7 @@ echo "Number of lines in the given file":
 wc -l $1
 ```
 
-The `$1` is a varible that represents the first argument given to the
+The `$1` is a variable that represents the first argument given to the
 shell scrip. Now you can call the script in the following way
 
 ```
