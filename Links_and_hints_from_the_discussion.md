@@ -24,7 +24,7 @@
 - Comparison of R to Python
 - What does "pythonic - https://stackoverflow.com/questions/25011078/what-does-pythonic-mean
 
-- [Rosalind](Rosalind is a platform for learning bioinformatics and
+- [Rosalind](http://rosalind.info) Rosalind is a platform for learning bioinformatics and
 - programming through problem solving.) is a platform for learning
     bioinformatics and programming through problem solving.
 - [Data Carpentry](http://www.datacarpentry.org/)
