@@ -132,6 +132,7 @@ reproducible research.
   - [scipy](https://www.scipy.org/)
   - [Biopython](http://biopython.org/) 
   - [scikit-learn](http://scikit-learn.org) - Machine learning
+  - [scikit-image](http://scikit-image.org/) - Image analysis
   - [matplotlib](http://matplotlib.org/) - 2D plotting library
   - [seaborn](https://seaborn.pydata.org/) - statistical data visualization
   - [bokeh](http://bokeh.pydata.org)
