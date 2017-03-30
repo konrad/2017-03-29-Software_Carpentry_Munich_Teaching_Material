@@ -1,0 +1,10 @@
+- git init
+- git status
+- git add
+- git commit
+- git diff
+- git checkout
+- git log
+- git push
+- git pull
+- git clone
