@@ -112,7 +112,7 @@ reproducible research.
   - [gedit](https://wiki.gnome.org/Apps/Gedit)
   - [kate](https://kate-editor.org/)
   - [Spyder](https://pythonhosted.org/spyder/)
-  - PyCharm
+  - [PyCharm](https://www.jetbrains.com/pycharm/)
 
 - Main ways to work with python
   - Script
