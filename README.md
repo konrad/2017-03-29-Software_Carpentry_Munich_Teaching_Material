@@ -138,6 +138,8 @@ reproducible research.
   - [bokeh](http://bokeh.pydata.org)
   - [statsmodel](http://statsmodels.sourceforge.net/)
 
+- Gitlab: [Available at TU Munich](https://www.lrz.de/services/netzdienste/gitlab_en/)
+
 - Explanation "pythonic -
   https://stackoverflow.com/questions/25011078/what-does-pythonic-mean
 
