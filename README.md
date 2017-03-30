@@ -144,7 +144,9 @@ reproducible research.
   platform for learning bioinformatics and programming through
   problem solving.
 
-- [Data Carpentry](http://www.datacarpentry.org/)
+- [Data Carpentry](http://www.datacarpentry.org/) [A Quick Guide to
+- Organizing Computational Biology
+- Projects](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
 
 ## 5 License
 
