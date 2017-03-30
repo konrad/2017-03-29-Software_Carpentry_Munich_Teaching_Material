@@ -145,7 +145,7 @@ reproducible research.
   problem solving.
 
 - [Data Carpentry](http://www.datacarpentry.org/) 
-- [A Quick Guide to Organizing Computational Biology-
+- [A Quick Guide to Organizing Computational Biology -
   Projects](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
 
 ## 5 License
