@@ -67,6 +67,7 @@ novices to the Unix Shell, Python and git.
 
 ### 2.4 Git (Florian) [9:00 - 12:00]
 
+- [The Softare Carpentry Git lesson](https://swcarpentry.github.io/git-novice/)
 - Setup
 - Creating a Repository
 - Tracking Changes
@@ -83,7 +84,8 @@ reproducible research.
 - Fill out the [post- workshop survey of
   SWC](https://www.surveymonkey.com/r/swc_post_workshop_v1?workshop_id=2016-10-26-Wuerzburg)
 - Fill out the feedback form of the GSLS
-- Discussion and feedback 
+
+### 2.6 Discussion and feedback [16:00 - 16:30]
 
 ## 3 Sources
 
