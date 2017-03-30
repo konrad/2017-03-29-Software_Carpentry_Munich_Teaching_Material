@@ -147,6 +147,7 @@ reproducible research.
 - [Data Carpentry](http://www.datacarpentry.org/) 
 - [A Quick Guide to Organizing Computational Biology -
   Projects](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
+- [There is a GitLab instance at TUM](https://www.lrz.de/services/netzdienste/gitlab/)
 
 ## 5 License
 
