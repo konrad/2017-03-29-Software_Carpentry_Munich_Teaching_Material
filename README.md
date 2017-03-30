@@ -113,6 +113,7 @@ reproducible research.
   - [kate](https://kate-editor.org/)
   - [Spyder](https://pythonhosted.org/spyder/)
   - [PyCharm](https://www.jetbrains.com/pycharm/)
+  - [Atom](https://atom.io/)
 
 - Main ways to work with python
   - Script
