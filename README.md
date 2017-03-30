@@ -113,6 +113,7 @@ reproducible research.
   - [kate](https://kate-editor.org/)
   - [Spyder](https://pythonhosted.org/spyder/)
   - [PyCharm](https://www.jetbrains.com/pycharm/)
+  - [Atom](https://atom.io/)
 
 - Main ways to work with python
   - Script
@@ -131,10 +132,13 @@ reproducible research.
   - [scipy](https://www.scipy.org/)
   - [Biopython](http://biopython.org/) 
   - [scikit-learn](http://scikit-learn.org) - Machine learning
+  - [scikit-image](http://scikit-image.org/) - Image analysis
   - [matplotlib](http://matplotlib.org/) - 2D plotting library
   - [seaborn](https://seaborn.pydata.org/) - statistical data visualization
   - [bokeh](http://bokeh.pydata.org)
   - [statsmodel](http://statsmodels.sourceforge.net/)
+
+- Gitlab: [Available at TU Munich](https://www.lrz.de/services/netzdienste/gitlab_en/)
 
 - Explanation "pythonic -
   https://stackoverflow.com/questions/25011078/what-does-pythonic-mean
