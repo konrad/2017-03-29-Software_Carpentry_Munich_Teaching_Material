@@ -149,6 +149,8 @@ reproducible research.
   Projects](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1000424)
 - [There is a GitLab instance at TUM](https://www.lrz.de/services/netzdienste/gitlab/)
 
+- [DRY - Don't Repeat yourself](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
+
 ## 5 License
 
 This work by Konrad Förstner and Florian Thöle is licensed under a
