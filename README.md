@@ -1,4 +1,4 @@
-# Course Material for the Software Carpentry workshop Würzburg 2017-03-29/2016-10-30
+# Course Material for the Software Carpentry workshop Munich 2017-03-29/2017-03-29
 
 ## 1 About
 
